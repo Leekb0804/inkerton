@@ -206,11 +206,6 @@ function printresult(first, second, third, fourth){
         showResult0();
     }
     else{
-        alert(first);
-        alert(second);
-        alert(third);
-        alert(fourth);
-
         var max = first;
         if(max < second){
             max = second;
@@ -221,10 +216,7 @@ function printresult(first, second, third, fourth){
         if(max < fourth){
             max = fourth;
         }
-
-        alert("max = " +max);
-        alert("first = " +first);
-
+        
         const text1 = `<center><p>당신의 결과는?</p></center>`;
 
         resultHtml += text1;
