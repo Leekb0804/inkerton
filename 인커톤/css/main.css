@@ -1,0 +1,26 @@
+#main{
+    background-color: whitesmoke;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+*{
+    font-family: 'TTTtangsbudaejjigaeB';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2212@1.0/TTTtangsbudaejjigaeB.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+p{
+    font-size: 22px;
+}
+
+.form-group{
+    margin-left: 1px;
+}
+
+.form-name{
+    margin-bottom: 10px;
+}
+
