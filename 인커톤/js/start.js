@@ -47,7 +47,7 @@ function showResult1(first) {
     const resultSection = document.querySelector('#result');
   
     // 이미지와 텍스트를 출력하는 HTML 코드를 작성합니다.
-    const image1 = `<img src="./img/image1.png" alt="Image 1">`;
+    const image1 = `<center><img src="./img/image1.png" alt="Image 1"><center>`;
     const text1 = `<p>어린이대공원 - 놀이기구 /p>`;
 
     const text2 = `<p>사뿐 pic(사회과학대학), 한손은 거들뿐(한손) - 타투, 페이스페인팅</p>`;
@@ -91,7 +91,7 @@ function showResult2(second) {
     const resultSection = document.querySelector('#result');
   
     // 이미지와 텍스트를 출력하는 HTML 코드를 작성합니다.
-    const image2 = `<img src="./img/image2.png" alt="Image 2">`;
+    const image2 = `<center><img src="./img/image2.png" alt="Image 2"><center>`;
     
     const text1 = `<p>경경보드카페(경영경제대학), HOGWANS(호텔관광대학) - 보드게임, (아마도)카지노
     </p>`;
@@ -136,7 +136,7 @@ function showResult3(third) {
     const resultSection = document.querySelector('#result');
   
     // 이미지와 텍스트를 출력하는 HTML 코드를 작성합니다.
-    const image3 = `<img src="./img/image3.png" alt="Image 3">`;
+    const image3 = `<center><img src="./img/image3.png" alt="Image 3"><center>`;
     
     const text1 = `<p>이상한 컴파일러 : 소융대 AI 추천 소개팅(소프트웨어융합대학), 매칭부스(전다예, 개인), 나의 동물 단짝을 찾아서(조준희, 개인) - 미팅
     </p>`;
@@ -164,7 +164,7 @@ function showResult4(fourth) {
     const resultSection = document.querySelector('#result');
   
     // 이미지와 텍스트를 출력하는 HTML 코드를 작성합니다.
-    const image4 = `<img src="./img/image4.png" alt="Image 4">`;
+    const image4 = `<center><img src="./img/image4.png" alt="Image 4"><center>`;
     
     const text1 = `<p>전정오락실(전자정보공학대학), 수통이 마시는데 슬러시를 안 마셔?!(수학통계학과) - 슬러시
     </p>`;
